@@ -1,0 +1,12 @@
+{
+  "author": "Aaron Roberts",
+  "name": "readwords",
+  "version": "0.1.2",
+  "description": "Testing the new node package",
+  "dependencies": {
+    "censorify": "file:../censorify/censorify-0.1.3.tgz"
+  },
+  "engines": {
+    "node": "*"
+  }
+}
